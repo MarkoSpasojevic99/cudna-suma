@@ -5,6 +5,12 @@ const translations = {
     beers: "Beers",
     contact: "Contact",
     description: "Welcome to Čudna Šuma brewery!",
+    style: "Style",
+    alcohol: "Alcohol",
+    allStyles: "All Styles",
+    sortByAlcohol: "Sort by Alcohol",
+    lowToHigh: "Low to High",
+    highToLow: "High to Low",
   },
   sr: {
     home: "Početna",
@@ -12,6 +18,12 @@ const translations = {
     beers: "Piva",
     contact: "Kontakt",
     description: "Dobrodošli u pivaru Čudna Šuma!",
+    style: "Stil",
+    alcohol: "Alkohol",
+    allStyles: "Svi stilovi",
+    sortByAlcohol: "Sortiraj po alkoholu",
+    lowToHigh: "Od manjeg ka većem",
+    highToLow: "Od većeg ka manjem",
   },
   ru: {
     home: "Главная",
@@ -19,7 +31,12 @@ const translations = {
     beers: "Пиво",
     contact: "Контакт",
     description: "Добро пожаловать в пивоварню Čudna Šuma!",
+    style: "Стиль",
+    alcohol: "Алкоголь",
+    allStyles: "Все стили",
+    sortByAlcohol: "Сортировать по алкоголю",
+    lowToHigh: "От низкого к высокому",
+    highToLow: "От высокого к низкому",
   },
 };
-
 export default translations;
