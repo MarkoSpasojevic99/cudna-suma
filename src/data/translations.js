@@ -11,6 +11,8 @@ const translations = {
     sortByAlcohol: "Sort by Alcohol",
     lowToHigh: "Low to High",
     highToLow: "High to Low",
+    moreDetails: "More details",
+    close: "Close",
   },
   sr: {
     home: "Početna",
@@ -24,6 +26,8 @@ const translations = {
     sortByAlcohol: "Sortiraj po alkoholu",
     lowToHigh: "Od manjeg ka većem",
     highToLow: "Od većeg ka manjem",
+    moreDetails: "Više detalja",
+    close: "Zatvori",
   },
   ru: {
     home: "Главная",
@@ -37,6 +41,9 @@ const translations = {
     sortByAlcohol: "Сортировать по алкоголю",
     lowToHigh: "От низкого к высокому",
     highToLow: "От высокого к низкому",
+    moreDetails: "Подробнее",
+    close: "Закрыть",
   },
 };
+
 export default translations;

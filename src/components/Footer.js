@@ -2,10 +2,9 @@ import React from 'react';
 
 function Footer() {
   return (
-    <footer className="bg-gray-800 text-white p-4 text-center fixed bottom-0 w-full shadow-md">
-
+    <footer className="bg-gray-800 text-white p-4 text-center">
       <p>© 2025 Čudna Šuma Brewery. All rights reserved.</p>
-      <p>Follow us on <a href="https://untappd.com/CudnaSuma" className="underline">Untappd</a>.</p>
+      <p>Follow us on <a href="https://untappd.com" className="underline">Untappd</a>.</p>
     </footer>
   );
 }

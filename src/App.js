@@ -6,11 +6,9 @@ import About from './pages/About';
 import Beers from './pages/Beers';
 import Contact from './pages/Contact';
 import AgeVerificationModal from './components/AgeVerificationModal';
-import { useLanguage } from './context/LanguageContext';
 
 function App() {
   const [currentPage, setCurrentPage] = useState('home');
-  const { translations } = useLanguage();
   const [isAgeVerified, setIsAgeVerified] = useState(false);
 
   if (!isAgeVerified) {
